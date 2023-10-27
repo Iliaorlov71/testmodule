@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/local/modules/ilia.test/admin/ilia_test_settings.php");?>
